@@ -17,3 +17,6 @@ Tools and other people interested in Android mobile privacy efforts:
 |Inspeckage - Package Inspector||[Play Store](https://play.google.com/store/apps/details?id=mobi.acpm.inspeckage)/[XPosed Repo](http://repo.xposed.info/module/mobi.acpm.inspeckage)|[Github](https://github.com/ac-pm/Inspeckage)|
 
 App with a ton of turd:[Flip Master by Miniclip](https://play.google.com/store/apps/details?id=com.motionvolt.flipbounce)
+
+
+License: You can do whatever you want with this host file.  I put it out here for others to use and for me to have a place to put it.

@@ -5,7 +5,7 @@ Tools and other people interested in Android mobile privacy efforts:
 
 ||||
 |---|---|---|
-||||
+|[Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2017/05/marketing-techniology-landscape-supergraphic-2017/)|||
 |[Koodous](https://koodous.com/apks)|[Play Store](https://play.google.com/store/apps/details?id=com.koodous.android)|[Github](https://github.com/Koodous)|
 |[Exodus Privacy](https://exodus-privacy.eu.org/)||[Github](https://github.com/Exodus-Privacy)|
 |[Yale Privacy Lab](https://privacylab.yale.edu)||[Github](https://github.com/YalePrivacyLab)|

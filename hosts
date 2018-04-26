@@ -536,7 +536,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 pippio.com
-0.0.0.0 5E+017.playfabapi.com
+0.0.0.0 5e17.playfabapi.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 amazon.poxo.com
 0.0.0.0 imgcdn.poxo.com
@@ -548,8 +548,6 @@
 0.0.0.0 img.purch.com
 0.0.0.0 t.purch.com
 0.0.0.0 purch.com
-0.0.0.0 api.pushbullet.com
-0.0.0.0 widget.pushbullet.com
 0.0.0.0 cdn.pushcrew.com
 0.0.0.0 pushcrew.com
 0.0.0.0 cp.pushwoosh.com

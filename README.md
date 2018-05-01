@@ -1,6 +1,7 @@
 # MobileAdTrackers
 Taken from DNS logs, formatted in hostfile and other formats.
-Caveat: This will block game reward systems like Tapjoy (i.e. watch videos and play other games for points)
+
+Caveat: This will also block game reward systems like Tapjoy (i.e. watch videos and play other games for points)
 
 Tools and other people interested in Android mobile privacy efforts:
 

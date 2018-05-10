@@ -36,11 +36,13 @@
 0.0.0.0 adbuddiz.com
 0.0.0.0 adcamp.ru
 0.0.0.0 adcash.com
+0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
+0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adcolony.com
@@ -587,6 +589,8 @@
 0.0.0.0 a57.foxnews.com
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 s.fqtag.com
+0.0.0.0 cdns3.fractionalmedia.com
+0.0.0.0 node416.fractionalmedia.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 friendlyduck.com
 0.0.0.0 ftjcfx.com
@@ -1364,6 +1368,7 @@
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 rv-gateway.supersonicads.com

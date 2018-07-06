@@ -815,6 +815,8 @@
 0.0.0.0 de.ioam.de
 0.0.0.0 ip-api.com
 0.0.0.0 ipify.org
+0.0.0.0 api.ipify.org
+0.0.0.0 api.ipstack.com
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 s0.ipstatp.com
 0.0.0.0 vv.ipstatp.com

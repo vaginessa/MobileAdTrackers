@@ -9,7 +9,8 @@ To give you an idea of why we need better mobile ad lists take a look at [Market
 
 This list is a heck of a lot more scrutinized than Adaway's as I log from my device and always see what apps are doing out of curiousity.  Not only that, someone used a utility called Funceble that checks host files for dead hosts and approx. [41% of the Adaway list](https://github.com/AdAway/adaway.github.io/pull/8) - a list designed to target mobile ad networks - no longer exist.  I criticize only because you're still letting through what you wanted to prevent.  The other popular lists out there are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps unless they are a web browser app or the app is essentially a webpage packaged as an app.
 
-|---|
+
+|----|
 |# Utilities & Resources|
 ||
 |[Koodous](https://koodous.com/apks) - [Play Store](https://play.google.com/store/apps/details?id=com.koodous.android) [Github](https://github.com/Koodous)|

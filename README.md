@@ -24,6 +24,6 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |My Android Tools(Pro) - [Play Store](https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro) dead link. find the free version on [apkmirror](https://www.apkmirror.com/apk/wangqi/my-android-tools/)|
 |[Inspeckage - Package Inspector](http://ac-pm.github.io/Inspeckage/) - [Play Store](https://play.google.com/store/apps/details?id=mobi.acpm.inspeckage)/[XPosed Repo](http://repo.xposed.info/module/mobi.acpm.inspeckage) [Github](https://github.com/ac-pm/Inspeckage)|
 |[PyFunceble](https://funilrys.github.io/PyFunceble/) - [Github](https://github.com/funilrys/PyFunceble)|
-|[FilterLists.com](https://filterlists.com) - [Github](https://github.com/collinbarrett/FilterLists|
+|[FilterLists.com](https://filterlists.com) - [Github](https://github.com/collinbarrett/FilterLists|)
 
 License: You can do whatever you want with this host file.  I put it out here for others to use and for me to have a place to put it.

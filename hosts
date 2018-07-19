@@ -1480,6 +1480,9 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 taboola.com
+0.0.0.0 adserver.tactilews.com
+0.0.0.0 analytics.tactilews.com
+0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 adback.tango.me
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adash.m.taobao.com
@@ -1689,6 +1692,7 @@
 0.0.0.0 wtraff.com
 0.0.0.0 wzrkt.com
 0.0.0.0 xdrig.com
+0.0.0.0 pg.xdrig.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com

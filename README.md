@@ -15,6 +15,7 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |[Koodous](https://koodous.com/apks)|[Play Store](https://play.google.com/store/apps/details?id=com.koodous.android),[Github](https://github.com/Koodous)|
 |[Exodus Privacy](https://exodus-privacy.eu.org/)|[Github](https://github.com/Exodus-Privacy)|
 |[Yale Privacy Lab](https://privacylab.yale.edu)|[Github](https://github.com/YalePrivacyLab)|
+|[Data Transparency Lab](http://datatransparencylab.org)||
 |[Lumen Privacy Monitor (formerly Project Haystack) - ICSI UC Berkeley](https://www.haystack.mobi/)|[Play Store](https://play.google.com/store/apps/details?id=edu.berkeley.icsi.haystack)|
 |[Protect My Privacy(PMP) - Carnegie Mellon/Synergy Labs](http://www.android.protectmyprivacy.org)|[XPosed Repo](http://repo.xposed.info/module/org.synergylabs.pmpandroid)|
 |[Recon (Northeastern University)](https://recon.meddle.mobi)|
@@ -24,6 +25,7 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |My Android Tools(Pro)|[Play Store](https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro) dead link. find the free version on [apkmirror](https://www.apkmirror.com/apk/wangqi/my-android-tools/)|
 |[Inspeckage - Package Inspector](http://ac-pm.github.io/Inspeckage/)|[Play Store](https://play.google.com/store/apps/details?id=mobi.acpm.inspeckage),[XPosed Repo](http://repo.xposed.info/module/mobi.acpm.inspeckage),[Github](https://github.com/ac-pm/Inspeckage)|
 |[PyFunceble](https://funilrys.github.io/PyFunceble/)|[Github](https://github.com/funilrys/PyFunceble)|
+|[OpenWPM](https://webtap.princeton.edu)|[Github](https://github.com/citp/OpenWPM)|
 |[FilterLists.com](https://filterlists.com)|[Github](https://github.com/collinbarrett/FilterLists)|
 
 License: You can do whatever you want with this host file.  I put it out here for others to use and for me to have a place to put it.

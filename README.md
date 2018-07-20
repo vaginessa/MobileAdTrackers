@@ -23,7 +23,7 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |[NetGuard](https://www.netguard.me/)|[Play Store](https://play.google.com/store/apps/details?id=eu.faircode.netguard),[Github](https://github.com/M66B/NetGuard)|
 |[XprivacyLua/Pro](https://lua.xprivacy.eu/)|[Play Store](https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro),[Xposed Repo](http://repo.xposed.info/module/eu.faircode.xlua),[Github](https://github.com/M66B/XPrivacyLua)|
 |Dexplorer|[Play Store](https://play.google.com/store/apps/details?id=com.dexplorer)|
-|My Android Tools(Pro)|[Play Store](https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro) dead link. find the free version on [apkmirror](https://www.apkmirror.com/apk/wangqi/my-android-tools/)|
+|My Android Tools(Pro)|[Play Store](https://play.google.com/store/apps/details?id=cn.wq.myandroidtoolspro) dead link (I assume Google kicked them off because their app let you view and disable services, receivers, activities and content providers). find the free version on [apkmirror](https://www.apkmirror.com/apk/wangqi/my-android-tools/)|
 |[Inspeckage - Package Inspector](http://ac-pm.github.io/Inspeckage/)|[Play Store](https://play.google.com/store/apps/details?id=mobi.acpm.inspeckage),[XPosed Repo](http://repo.xposed.info/module/mobi.acpm.inspeckage),[Github](https://github.com/ac-pm/Inspeckage)|
 |[PyFunceble](https://funilrys.github.io/PyFunceble/)|[Github](https://github.com/funilrys/PyFunceble)|
 |[OpenWPM - Princeton Web Transparency & Accountability Project](https://webtap.princeton.edu)|[Github](https://github.com/citp/OpenWPM)|

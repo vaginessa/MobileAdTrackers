@@ -29,4 +29,4 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |[OpenWPM - Princeton Web Transparency & Accountability Project](https://webtap.princeton.edu)|[Github](https://github.com/citp/OpenWPM)|
 |[FilterLists.com](https://filterlists.com)|[Github](https://github.com/collinbarrett/FilterLists)|
 
-License: You can do whatever you want with this host file.  I put it out here for others to use and for me to have a place to put it.
+I put a GPL license on it.  I didn't read the fine print but I'm not liable for damage, let me know if I'm in trouble for anything so I can fix whatever the problem is and not be in trouble, and if you use anything from it let me know so I can feel happy for helping someone.

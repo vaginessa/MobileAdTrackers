@@ -18,7 +18,8 @@ This list is a heck of a lot more scrutinized than Adaway's as I log from my dev
 |[Data Transparency Lab](http://datatransparencylab.org)||
 |[Lumen Privacy Monitor (formerly Project Haystack) - ICSI UC Berkeley](https://www.haystack.mobi/)|[Play Store](https://play.google.com/store/apps/details?id=edu.berkeley.icsi.haystack)|
 |[Protect My Privacy(PMP) - Carnegie Mellon/Synergy Labs](http://www.android.protectmyprivacy.org)|[XPosed Repo](http://repo.xposed.info/module/org.synergylabs.pmpandroid)|
-|[Recon (Northeastern University)](https://recon.meddle.mobi)|
+|[Recon - Northeastern University](https://recon.meddle.mobi)|
+|[AntMonitor - UC Irvine](http://antmonitor.calit2.uci.edu)|[Play Store](https://play.google.com/store/apps/details?id=edu.uci.calit2.anteatermo), [YouTube presentation](https://www.youtube.com/watch?v=fymI9uM7TFo)|
 |[NetGuard](https://www.netguard.me/)|[Play Store](https://play.google.com/store/apps/details?id=eu.faircode.netguard),[Github](https://github.com/M66B/NetGuard)|
 |[XprivacyLua/Pro](https://lua.xprivacy.eu/)|[Play Store](https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro),[Xposed Repo](http://repo.xposed.info/module/eu.faircode.xlua),[Github](https://github.com/M66B/XPrivacyLua)|
 |Dexplorer|[Play Store](https://play.google.com/store/apps/details?id=com.dexplorer)|

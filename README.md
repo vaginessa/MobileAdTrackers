@@ -1,11 +1,11 @@
 # MobileAdTrackers
-Taken from DNS logs, formatted in hostfile and other formats.
+Taken from DNS logs, formatted in hostfile format.
 
 Caveat: This will also block game reward systems like Tapjoy (i.e. watch videos and play other games for points)
 
-To give you an idea of why we need better mobile ad lists take a look at **[Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/)**.  Each year they release a new poster and you can see the growth of the mobile marketing landscape over the past several years.  Most host-based blocklists do not target mobile ad networks- possibly because they monitor desktop and desktop browser traffic.  Adaway for Android has a built-in hostfile of mobile ad networks but [it hasn't been updated](https://github.com/AdAway/adaway.github.io/commits/master/hosts.txt) since 2016.  The last attempt was by me and it was reverted as I had mistakenly included URL shortener goo.gl.
+To give you an idea of why we need better mobile ad lists take a look at **[Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/)**.
 
-This list is a heck of a lot more scrutinized than Adaway's as I log from my device and always see what apps are doing out of curiousity.  Not only that, someone used a utility called Funceble that checks host files for dead hosts and approx. [41% of the Adaway list](https://github.com/AdAway/adaway.github.io/pull/8) - a list designed to target mobile ad networks - no longer exist.  I criticize only because you're still letting through what you wanted to prevent.  The other popular lists out there are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps unless they are a web browser app or the app is essentially a webpage packaged as an app.
+[41% of the Adaway list](https://github.com/AdAway/adaway.github.io/pull/8) - a list designed to target mobile ad networks - no longer exist.  I criticize only because you're still letting through what you wanted to prevent.  Most blocklists are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps.
 
 Tools and other people interested in Android mobile privacy efforts.  If a couple look interesting or familiar the rest you will like as well:
 

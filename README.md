@@ -1,6 +1,10 @@
 # MobileAdTrackers
 Taken from DNS logs, formatted in hostfile format.
 
+Direct link to list:
+https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
+
+
 Caveat: This will also block game reward systems like Tapjoy (i.e. watch videos and play other games for points)
 
 To give you an idea of why we need better mobile ad lists take a look at [Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/).

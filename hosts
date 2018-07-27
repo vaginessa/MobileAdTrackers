@@ -620,6 +620,7 @@
 0.0.0.0 global.fncstatic.com
 0.0.0.0 focas.jp
 0.0.0.0 pro.fontawesome.com
+0.0.0.0 use.fontawesome.com
 0.0.0.0 fast.fonts.net
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.fosrv.com
@@ -632,7 +633,9 @@
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 s.fqtag.com
 0.0.0.0 fqtag.com
+0.0.0.0 adsdk.fractionalmedia.com
 0.0.0.0 cdns3.fractionalmedia.com
+0.0.0.0 fmx-req.fractionalmedia.com
 0.0.0.0 node416.fractionalmedia.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 friendlyduck.com
@@ -950,6 +953,7 @@
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 localytics.com
 0.0.0.0 cdns.lodeo.io
+0.0.0.0 logs-01.loggly.com
 0.0.0.0 loopme.me
 0.0.0.0 lp4.io
 0.0.0.0 pw.lpsxssm.com
@@ -1090,6 +1094,7 @@
 0.0.0.0 morgdm.ru
 0.0.0.0 media.motrixi.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 identity.mparticle.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 mprezchc.com
 0.0.0.0 m.mrsasharingspace.com
@@ -1473,8 +1478,10 @@
 0.0.0.0 switchadhub.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 1781.api.swrve.com
+0.0.0.0 3711.api.swrve.com
 0.0.0.0 4694.api.swrve.com
 0.0.0.0 1781.content.swrve.com
+0.0.0.0 3711.content.swrve.com
 0.0.0.0 4694.content.swrve.com
 0.0.0.0 t3q7af0z.com
 0.0.0.0 cdn.taboola.com
@@ -1493,6 +1500,7 @@
 0.0.0.0 tapad.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 tapcreatives.net
+0.0.0.0 ads.tapdaq.com
 0.0.0.0 i.tapit.com
 0.0.0.0 tapit.com
 0.0.0.0 connect.tapjoy.com
@@ -1517,6 +1525,7 @@
 0.0.0.0 teads.tv
 0.0.0.0 uconnect.tealiumiq.com
 0.0.0.0 telemetryverification.net
+0.0.0.0 track.tenjin.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
 0.0.0.0 theoremreach.com

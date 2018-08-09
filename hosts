@@ -394,6 +394,7 @@
 0.0.0.0 bttn.io
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 burstnet.com
 0.0.0.0 geoip.businessinsider.com
 0.0.0.0 ctl.buyt.in
@@ -709,8 +710,6 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com

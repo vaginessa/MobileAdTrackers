@@ -206,6 +206,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 v.amazon-adsystem.com
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
@@ -218,6 +219,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 3p.ampproject.net
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 andomedia.com
@@ -591,6 +593,7 @@
 0.0.0.0 exe.bid
 0.0.0.0 loadus.exelator.com
 0.0.0.0 exponential.com
+0.0.0.0 error.facebook.com
 0.0.0.0 api.fast.com
 0.0.0.0 fastclick.net
 0.0.0.0 914.global.ssl.fastly.net

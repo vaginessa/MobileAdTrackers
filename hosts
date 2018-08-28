@@ -155,6 +155,7 @@
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 advertising.com
 0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 advertur.ru
@@ -407,6 +408,7 @@
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 gameboost.cafe24.com
 0.0.0.0 gbimagecdn.cafe24.com
+0.0.0.0 m-metrics.capitalone.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 dsum-sec.casalemedia.com
@@ -532,6 +534,7 @@
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 2301899.fls.doubleclick.net
+0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 4351555.fls.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adx.g.doubleclick.net
@@ -1685,6 +1688,7 @@
 0.0.0.0 weboohost.com
 0.0.0.0 websexy.mobi
 0.0.0.0 dc.webtrends.com
+0.0.0.0 scs.webtrends.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 crosspromotion.weplayer.cc

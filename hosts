@@ -4297,9 +4297,11 @@
 0.0.0.0 1781.api.swrve.com
 0.0.0.0 3711.api.swrve.com
 0.0.0.0 4694.api.swrve.com
+0.0.0.0 30444.api.swrve.com
 0.0.0.0 1781.content.swrve.com
 0.0.0.0 3711.content.swrve.com
 0.0.0.0 4694.content.swrve.com
+0.0.0.0 30444.content.swrve.com
 0.0.0.0 t3q7af0z.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 trc.taboola.com
@@ -4354,6 +4356,9 @@
 0.0.0.0 thoughtleadr.com
 0.0.0.0 thoughtsondance.info
 0.0.0.0 tidaltv.com
+0.0.0.0 analytics.tiltingpoint.io
+0.0.0.0 registration.tiltingpoint.io
+0.0.0.0 analytics.tiltingpoint.io
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 tags.tiqcdn.com

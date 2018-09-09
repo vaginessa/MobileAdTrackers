@@ -9,7 +9,9 @@ Caveat: This will also block game reward systems like Tapjoy (i.e. watch videos 
 
 To give you an idea of why we need better mobile ad lists take a look at [Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/).
 
-[41% of the Adaway list](https://github.com/AdAway/adaway.github.io/pull/8) doesn't do anything.  And other blocklists are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps.
+Rationale: Other blocklists are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps.
+
+License: There isn't any license other than letting me know if there are any suggestions. It may be too aggressive or sway from mobile ad traffic a bit but I just try to catch unnecessary traffic I notice from my devices. If you're responsible for another list maybe I can contribute to it instead- but I do like lists that are purpose-driven. And let me know if you use this list for anything as I appreciate to know if it does a good job.
 
 Apps and other resources interested in Android mobile privacy efforts:
 

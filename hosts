@@ -706,12 +706,14 @@
 0.0.0.0 v.fwmrm.net
 0.0.0.0 adproxy.fyber.com
 0.0.0.0 advertiser.fyber.com
+0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 appengage-video.fyber.com
 0.0.0.0 banner.fyber.com
 0.0.0.0 engine.fyber.com
 0.0.0.0 interstitial.fyber.com
 0.0.0.0 mbe-cdn.fyber.com
 0.0.0.0 offer.fyber.com
+0.0.0.0 sdk-config.fyber.com
 0.0.0.0 service.fyber.com
 0.0.0.0 tracker.fyber.com
 0.0.0.0 video.fyber.com
@@ -1221,6 +1223,7 @@
 0.0.0.0 analyzer.omniata.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 americanairlines.sc.omtrdc.net
+0.0.0.0 audible.sc.omtrdc.net
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 fandango.sc.omtrdc.net

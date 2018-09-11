@@ -10,11 +10,9 @@
 0.0.0.0 api.mobile.roku.com
 0.0.0.0 api.qa.cs.roku.com
 0.0.0.0 api.qa.roku.com
-0.0.0.0 api.sr.roku.com
 0.0.0.0 api.staging.cs.roku.com
 0.0.0.0 api.staging.roku.com
 0.0.0.0 api2-int.sr.roku.com
-0.0.0.0 api2.sr.roku.com
 0.0.0.0 apipub.cs.roku.com
 0.0.0.0 apipub.qa.cs.roku.com
 0.0.0.0 apipub.qa.roku.com
@@ -53,7 +51,6 @@
 0.0.0.0 camden.ib.roku.com
 0.0.0.0 camden.logs.roku.com
 0.0.0.0 camden.sb.roku.com
-0.0.0.0 captive.roku.com
 0.0.0.0 channels.qa.roku.com
 0.0.0.0 channels.roku.com
 0.0.0.0 channels.staging.roku.com
@@ -64,7 +61,6 @@
 0.0.0.0 cloudservices.qa.roku.com
 0.0.0.0 cloudservices.roku.com
 0.0.0.0 cloudservices.staging.roku.com
-0.0.0.0 configsvc.cs.roku.com
 0.0.0.0 confluence.portal.roku.com
 0.0.0.0 connect-atx.roku.com
 0.0.0.0 connect-aws.roku.com
@@ -131,7 +127,6 @@
 0.0.0.0 lagrange.sb.roku.com
 0.0.0.0 larie-staging.web.roku.com
 0.0.0.0 larie.web.roku.com
-0.0.0.0 lat-services.api.data.roku.com
 0.0.0.0 liberty.ib.roku.com
 0.0.0.0 liberty.logs.roku.com
 0.0.0.0 liberty.sb.roku.com

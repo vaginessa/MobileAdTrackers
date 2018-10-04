@@ -74,6 +74,7 @@
 0.0.0.0 adj.st
 0.0.0.0 app.adjust.com
 0.0.0.0 ulink.adjust.com
+0.0.0.0 view.adjust.com
 0.0.0.0 adkmob.com
 0.0.0.0 sp.ad.adlantis.jp
 0.0.0.0 adleads.com
@@ -2812,6 +2813,7 @@
 0.0.0.0 sdk.fiksu.com
 0.0.0.0 fiksu.com
 0.0.0.0 findbestsolution.net
+0.0.0.0 ads3.fingersoft.net
 0.0.0.0 api.fixer.io
 0.0.0.0 fizcell.mobi
 0.0.0.0 fjrkn.com
@@ -4517,6 +4519,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 api.vungle.com
 0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 ingest.vungle.com
 0.0.0.0 vungle.com
 0.0.0.0 waiads.com
 0.0.0.0 wap-click.com
@@ -4537,6 +4540,7 @@
 0.0.0.0 engine.widespace.com
 0.0.0.0 widespace.com
 0.0.0.0 adsicon.blob.core.windows.net
+0.0.0.0 fsuseaad1.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 a.wishabi.com
 0.0.0.0 f.wishabi.net

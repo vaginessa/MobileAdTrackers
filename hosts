@@ -17,6 +17,10 @@
 0.0.0.0 abnad.net
 0.0.0.0 tracking.acekoala.com
 0.0.0.0 aclickoooo.host
+0.0.0.0 as.ad-brix.com
+0.0.0.0 campaign.ad-brix.com
+0.0.0.0 cvr.ad-brix.com
+0.0.0.0 tracking.ad-brix.com
 0.0.0.0 ad-brix.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 ad-maven.com
@@ -126,6 +130,7 @@
 0.0.0.0 adsmogo.org
 0.0.0.0 adsmoloco.com
 0.0.0.0 adsniper.ru
+0.0.0.0 collect.adsorb.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvmedia.net
@@ -469,6 +474,7 @@
 0.0.0.0 tali.iad-03.braze.com
 0.0.0.0 brealtime.com
 0.0.0.0 bridgetrack.com
+0.0.0.0 metrics.brightcove.com
 0.0.0.0 brokerbabe.com
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 sync.btn2go.com
@@ -490,6 +496,7 @@
 0.0.0.0 m-metrics.capitalone.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 devices.carnivalmobile.com
+0.0.0.0 amp.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cashprom.ru
@@ -810,6 +817,7 @@
 0.0.0.0 eltrafiko.com
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
+0.0.0.0 app-config.enhance.co
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 epom.com
 0.0.0.0 ero-advertising.com
@@ -2507,6 +2515,7 @@
 0.0.0.0 sink-prod-us-east-1-star.swrve.com
 0.0.0.0 support.swrve.com
 0.0.0.0 us-fs12-mitm-api.swrve.com
+0.0.0.0 api.taboola.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 taboola.com
@@ -2632,9 +2641,11 @@
 0.0.0.0 onceux.unicornmedia.com
 0.0.0.0 unicume.com
 0.0.0.0 analytics.social.unity.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 stats.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -2782,6 +2793,7 @@
 0.0.0.0 dmx.sync.yume.com
 0.0.0.0 zdbb.net
 0.0.0.0 zedo.com
+0.0.0.0 vjs.zencdn.net
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com

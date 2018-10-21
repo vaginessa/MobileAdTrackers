@@ -830,14 +830,15 @@
 0.0.0.0 exe.bid
 0.0.0.0 loadus.exelator.com
 0.0.0.0 exponential.com
-
+0.0.0.0 api.facebook.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 api.fast.com
 0.0.0.0 fastclick.net
 0.0.0.0 914.global.ssl.fastly.net
 0.0.0.0 fastmap33.com
-
-
+0.0.0.0 external.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 fdplttrk.com
 0.0.0.0 ffcdn3.featureforward.com
 0.0.0.0 i.ffbtas.com

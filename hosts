@@ -150,6 +150,7 @@
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvmedia.net
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 adsrvr.org
@@ -201,9 +202,11 @@
 0.0.0.0 ad.afy11.net
 0.0.0.0 airpush.com
 0.0.0.0 ads.aitype.net
+0.0.0.0 s3-dub.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 abcd.mdc.akamaized.net
@@ -370,6 +373,8 @@
 0.0.0.0 vela.iad.appboy.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk.appbrain.com
+0.0.0.0 api.appcelerator.com
+0.0.0.0 api.cloud.appcelerator.com
 0.0.0.0 appclick.co
 0.0.0.0 appclick.net
 0.0.0.0 bannerwall.s3.appcnt.com
@@ -387,6 +392,7 @@
 0.0.0.0 d.applovin.com
 0.0.0.0 img.applovin.com
 0.0.0.0 pdn.applovin.com
+0.0.0.0 prod-a.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 vid.applovin.com
@@ -410,6 +416,7 @@
 0.0.0.0 appserver-cp.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 app.appsflyer.com
+0.0.0.0 attr.appsflyer.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 register.appsflyer.com
@@ -569,14 +576,6 @@
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 www.clicktrac.net
 0.0.0.0 clkfeed.com
-0.0.0.0 dlwnextsetting.cloudapp.net
-0.0.0.0 d27tpsznug51gz.cloudfront.net
-0.0.0.0 d2nrdy2pg3k168.cloudfront.net
-0.0.0.0 d32z5ni8t5127x.cloudfront.net
-0.0.0.0 d60y8cj1tje2a.cloudfront.net
-0.0.0.0 d830x8j3o1b2k.cloudfront.net
-0.0.0.0 debojuagug1sf.cloudfront.net
-0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 us-central1-eyewind-ads.cloudfunctions.net
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 logger.cloudmobi.net
@@ -587,6 +586,7 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 admixer.co.kr
 0.0.0.0 ad.cauly.co.kr
+0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 ad-x.co.uk
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
@@ -629,7 +629,9 @@
 0.0.0.0 dis.us.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 api.crittercism.com
+0.0.0.0 5-8-10-android.appload.ingest.crittercism.com
 0.0.0.0 appload.ingest.crittercism.com
+0.0.0.0 5-8-10-android.event.ingest.crittercism.com
 0.0.0.0 txn.ingest.crittercism.com
 0.0.0.0 crittercism.com
 0.0.0.0 crossboardmobile.com
@@ -699,6 +701,7 @@
 0.0.0.0 collect12666pkrwr.deltadna.net
 0.0.0.0 collect126842fr2h.deltadna.net
 0.0.0.0 collect12717rnssg.deltadna.net
+0.0.0.0 collect12765vrbrn.deltadna.net
 0.0.0.0 collect12774shmmr.deltadna.net
 0.0.0.0 collect12837lgcyf.deltadna.net
 0.0.0.0 collect12897ptclp.deltadna.net
@@ -801,6 +804,7 @@
 0.0.0.0 tracking.directservices.it
 0.0.0.0 clktrk.display.io
 0.0.0.0 referrer.disqus.com
+0.0.0.0 glitter.services.disqus.com
 0.0.0.0 disqusads.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 magnetic.t.domdex.com
@@ -908,6 +912,8 @@
 0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 fdplttrk.com
 0.0.0.0 ffcdn3.featureforward.com
+0.0.0.0 cdn.feedbackify.com
+0.0.0.0 s.feedbackify.com
 0.0.0.0 i.ffbtas.com
 0.0.0.0 a.fiksu.com
 0.0.0.0 ri.fiksu.com
@@ -949,6 +955,7 @@
 0.0.0.0 adsdk.fractionalmedia.com
 0.0.0.0 cdns3.fractionalmedia.com
 0.0.0.0 fmx-req.fractionalmedia.com
+0.0.0.0 node314.fractionalmedia.com
 0.0.0.0 node416.fractionalmedia.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 friendlyduck.com
@@ -959,6 +966,7 @@
 0.0.0.0 fusionads.net
 0.0.0.0 adproxy.fyber.com
 0.0.0.0 advertiser.fyber.com
+0.0.0.0 api.fyber.com
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 appengage-video.fyber.com
 0.0.0.0 banner.fyber.com
@@ -1309,13 +1317,16 @@
 0.0.0.0 mads.bz
 0.0.0.0 ad.mail.ru
 0.0.0.0 mainadv.com
+0.0.0.0 mallmotion.com
 0.0.0.0 cdn.manage.com
 0.0.0.0 manage.com
 0.0.0.0 jsc.marketgid.com
+0.0.0.0 api.maropost.com
 0.0.0.0 mastoon.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 maudau.com
 0.0.0.0 service.maxymiser.net
+0.0.0.0 tt.mbww.com
 0.0.0.0 mdotm.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 measuread.com
@@ -1432,6 +1443,7 @@
 0.0.0.0 metamx.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-owr-bootstrap.metaps.net
 0.0.0.0 metavertising.com
 0.0.0.0 www.metroperspectives.com
@@ -1476,6 +1488,11 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 z.moatads.com
 0.0.0.0 moatads.com
+0.0.0.0 c.data.mob.com
+0.0.0.0 devs.data.mob.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 api.exc.mob.com
+0.0.0.0 api.share.mob.com
 0.0.0.0 moba8.net
 0.0.0.0 mobads4app.com
 0.0.0.0 mobalert.net
@@ -1483,6 +1500,9 @@
 0.0.0.0 mobfox.com
 0.0.0.0 mobiads.ru
 0.0.0.0 mobicow.com
+0.0.0.0 cdnpublic.mobidea.com
+0.0.0.0 www.mobidea.com
+0.0.0.0 mobidea.com
 0.0.0.0 mobile333.com
 0.0.0.0 track-west.mobileadtrading.com
 0.0.0.0 2.engine.mobileapptracking.com
@@ -1969,6 +1989,7 @@
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 adserver.mobillex.com
 0.0.0.0 mad.mobisky.pl
+0.0.0.0 api.mobitech-content.xyz
 0.0.0.0 moboland.net
 0.0.0.0 mobon.com
 0.0.0.0 mobpartner.mobi
@@ -2026,6 +2047,7 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 n152adserv.com
+0.0.0.0 api.nanigans.com
 0.0.0.0 nanigans.com
 0.0.0.0 io.narrative.io
 0.0.0.0 nasdfg.com
@@ -2082,6 +2104,7 @@
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 fandango.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
+0.0.0.0 marketamerica.sc.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 statefarm.sc.omtrdc.net
@@ -2091,6 +2114,7 @@
 0.0.0.0 dsg.tt.omtrdc.net
 0.0.0.0 fandango.tt.omtrdc.net
 0.0.0.0 foxnews.tt.omtrdc.net
+0.0.0.0 marketamericainc.tt.omtrdc.net
 0.0.0.0 mboxedge20.tt.omtrdc.net
 0.0.0.0 mboxedge28.tt.omtrdc.net
 0.0.0.0 pixel.onaudience.com
@@ -2207,6 +2231,7 @@
 0.0.0.0 e.qq.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 log.tbs.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 qservz.com
 0.0.0.0 rules.quantcount.com
@@ -2233,6 +2258,7 @@
 0.0.0.0 api2.restartad.com
 0.0.0.0 restartad.com
 0.0.0.0 www.res-x.com
+0.0.0.0 img.revcontent.com
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 revcontent.com
@@ -2284,6 +2310,7 @@
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 api.segment.io
+0.0.0.0 browsermetrix.segrocers.com
 0.0.0.0 sekindo.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
@@ -2346,6 +2373,7 @@
 0.0.0.0 cdn3.sponsorpay.com
 0.0.0.0 cdn4.sponsorpay.com
 0.0.0.0 engine.sponsorpay.com
+0.0.0.0 service.sponsorpay.com
 0.0.0.0 sponsorpay.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 sync.search.spotxchange.com
@@ -2696,6 +2724,11 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
+0.0.0.0 ondemand.tf-cdn.net
+0.0.0.0 push.tf-cdn.net
+0.0.0.0 static.tf-cdn.net
+0.0.0.0 tform-0710-dnjzqn.tf-cdn.net
+0.0.0.0 words.tf-cdn.net
 0.0.0.0 theoremreach.com
 0.0.0.0 link.theplatform.com
 0.0.0.0 analytics-tracker.thescore.com
@@ -2743,6 +2776,7 @@
 0.0.0.0 appshelf.ttpsdk.info
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 tubemogul.com
+0.0.0.0 r.turn.com
 0.0.0.0 turn.com
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 gts-ads.twistbox.com
@@ -2793,6 +2827,7 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 stats.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -2840,6 +2875,7 @@
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 m.vpadn.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 adplatform.vrtcal.com

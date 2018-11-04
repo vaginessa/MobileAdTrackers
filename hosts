@@ -378,9 +378,11 @@
 0.0.0.0 www.amarktflow.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mas-ext.amazon.com
 0.0.0.0 mas-sdk.amazon.com
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com

@@ -381,7 +381,6 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 mas-ext.amazon.com
 0.0.0.0 mas-sdk.amazon.com
-0.0.0.0 unagi-na.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -415,7 +414,6 @@
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yc-ads.s3.amazonaws.com
 0.0.0.0 s3.amazonaws.com
-0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
 0.0.0.0 amoad.com
 0.0.0.0 ns1.amobee.com

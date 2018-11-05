@@ -670,7 +670,6 @@
 0.0.0.0 auctionads.net
 0.0.0.0 auditude.com
 0.0.0.0 augur.io
-0.0.0.0 cdn.auth0.com
 0.0.0.0 purch.auth0.com
 0.0.0.0 authorne.info
 0.0.0.0 auto-bannertausch.de
@@ -1703,7 +1702,6 @@
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 displayads-formats.googleusercontent.com
 0.0.0.0 redirector.googlevideo.com
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 geo.gop1.co
 0.0.0.0 img.gop1.co
 0.0.0.0 gop1.co
@@ -3661,7 +3659,6 @@
 0.0.0.0 sendmepixel.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
-0.0.0.0 sentry.io
 0.0.0.0 serv0.com
 0.0.0.0 serve-sys.com
 0.0.0.0 ads.servebom.com

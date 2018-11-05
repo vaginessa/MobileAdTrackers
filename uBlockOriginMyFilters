@@ -1,0 +1,14 @@
+#*$font
+*$inline-font
+#*$inline-script
+*$popunder
+*$redirect
+*$websocket
+#*$xmlhttprequest
+*$font,third-party
+*$inline-font,third-party
+*$inline-script,third-party
+*$popunder,third-party
+*$redirect,third-party
+*$websocket,third-party
+*$xmlhttprequest,third-party

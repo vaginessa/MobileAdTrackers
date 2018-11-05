@@ -1437,7 +1437,6 @@
 0.0.0.0 d2.shared.global.fastly.net
 0.0.0.0 f.ssl.fastly.net
 0.0.0.0 914.global.ssl.fastly.net
-0.0.0.0 914.global.ssl.fastly.net
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 m.ssl.fastly.net
 0.0.0.0 dualstack.f2.shared.us-eu.fastly.net

@@ -288,8 +288,6 @@
 0.0.0.0 adzmobi.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 www.aerserv.com
-0.0.0.0 affiliatetracking.com
-0.0.0.0 affiliatetracking.net
 0.0.0.0 affinity.com
 0.0.0.0 affiz.net
 0.0.0.0 afftrack-data.com
@@ -766,7 +764,6 @@
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 cottawa.info
 0.0.0.0 counted.com
-0.0.0.0 counter.cz
 0.0.0.0 coupling-media.de
 0.0.0.0 cpactions.com
 0.0.0.0 www.cpalead.com
@@ -789,10 +786,6 @@
 0.0.0.0 credishe.com
 0.0.0.0 adops.cricbuzz.com
 0.0.0.0 ads.cricbuzz.com
-0.0.0.0 crispads.com
-0.0.0.0 cdn1.crispadvertising.com
-0.0.0.0 cdn2.crispadvertising.com
-0.0.0.0 crispadvertising.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 sslwidget.criteo.com
@@ -837,7 +830,6 @@
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 api.live.daum.net
 0.0.0.0 vads-api.daumkakao.com
-0.0.0.0 dbbsrv.com
 0.0.0.0 srv.dc-1.net
 0.0.0.0 dc-storm.com
 0.0.0.0 s79.research.de.com
@@ -1013,7 +1005,6 @@
 0.0.0.0 directorym.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 directtrack.com
-0.0.0.0 direct-xxx-access.com
 0.0.0.0 clktrk.display.io
 0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
@@ -1136,8 +1127,6 @@
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 pinkaanalytics.eu-2.evennode.com
 0.0.0.0 www.everyplay.com
-0.0.0.0 evidencecleanergold.com
-0.0.0.0 eviltracker.net
 0.0.0.0 exchangead.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exe.bid
@@ -1160,7 +1149,6 @@
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
 0.0.0.0 ezula.com
-0.0.0.0 f5biz.com
 0.0.0.0 error.facebook.com
 0.0.0.0 fast-adv.it
 0.0.0.0 sentry.fastboot.mobi
@@ -1238,7 +1226,6 @@
 0.0.0.0 start.freeze.com
 0.0.0.0 meiwa-kumquat.fruithosted.net
 0.0.0.0 munydjudj.fruithosted.net
-0.0.0.0 ftjcfx.com
 0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 ads.fusepowered.com
 0.0.0.0 api.fusepowered.com
@@ -1486,7 +1473,6 @@
 0.0.0.0 zrk.imgur.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 immobi.com
-0.0.0.0 imprese.cz
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 dar.imrworldwide.com
 0.0.0.0 s.ncp.imrworldwide.com
@@ -1658,7 +1644,6 @@
 0.0.0.0 keydot.net
 0.0.0.0 keymedia.hu
 0.0.0.0 pixel.keywee.co
-0.0.0.0 keywordblocks.com
 0.0.0.0 www.kii.com
 0.0.0.0 kii.com
 0.0.0.0 www.kiip.com
@@ -1705,8 +1690,6 @@
 0.0.0.0 www.launch1.co
 0.0.0.0 launch1.co
 0.0.0.0 launchbit.com
-0.0.0.0 layer-ad.de
-0.0.0.0 layer-ads.de
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 lbn.ru
 0.0.0.0 lduhtrp.net
@@ -1768,20 +1751,8 @@
 0.0.0.0 t.lkqd.net
 0.0.0.0 v.lkqd.net
 0.0.0.0 appnext.hs.llnwd.net
-0.0.0.0 rbb.ic.llnwd.net
 0.0.0.0 atkins.vo.llnwd.net
 0.0.0.0 behance.vo.llnwd.net
-0.0.0.0 edwlifes.vo.llnwd.net
-0.0.0.0 harvardbp.vo.llnwd.net
-0.0.0.0 kjos.vo.llnwd.net
-0.0.0.0 msbmopod.vo.llnwd.net
-0.0.0.0 synthes.vo.llnwd.net
-0.0.0.0 teachscape.vo.llnwd.net
-0.0.0.0 textron.vo.llnwd.net
-0.0.0.0 tmz.vo.llnwd.net
-0.0.0.0 toyota.vo.llnwd.net
-0.0.0.0 videoplus.vo.llnwd.net
-0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 loading321.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 manifest.localytics.com
@@ -1982,7 +1953,6 @@
 0.0.0.0 mediavoice.com
 0.0.0.0 medleyads.com
 0.0.0.0 meendocash.com
-0.0.0.0 megago.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 megawerbung.de
 0.0.0.0 metamx.com
@@ -2022,7 +1992,6 @@
 0.0.0.0 minimob.com
 0.0.0.0 mirthfulmeed.club
 0.0.0.0 misslk.com
-0.0.0.0 misstrends.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -2667,7 +2636,6 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtrcss.com
-0.0.0.0 mtree.com
 0.0.0.0 alpha-mfc.muneris.io
 0.0.0.0 api.muneris.io
 0.0.0.0 musiccounter.ru
@@ -2681,7 +2649,6 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 c3.myapkcdn.in
 0.0.0.0 i2.myapkcdn.in
-0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 media-adrunner.mycomputer.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
@@ -2726,7 +2693,6 @@
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netcommunities.com
 0.0.0.0 netdirect.nl
-0.0.0.0 net-filter.com
 0.0.0.0 netincap.com
 0.0.0.0 com-dsg.netmng.com
 0.0.0.0 nan.netmng.com
@@ -2933,7 +2899,6 @@
 0.0.0.0 popmarker.com
 0.0.0.0 popmyads.com
 0.0.0.0 poptm.com
-0.0.0.0 popub.com
 0.0.0.0 popunder.ru
 0.0.0.0 pop-under.ru
 0.0.0.0 popunderz.com
@@ -2965,7 +2930,6 @@
 0.0.0.0 primetime.net
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 redirect.privateadtracking.com
-0.0.0.0 privatecash.com
 0.0.0.0 privy.com
 0.0.0.0 pro-advertising.com
 0.0.0.0 top.proext.com
@@ -3107,8 +3071,6 @@
 0.0.0.0 reward2spot.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 wpc.32df9.rhocdn.net
-0.0.0.0 richpays.com
-0.0.0.0 richwebmaster.com
 0.0.0.0 count.rin.ru
 0.0.0.0 beacon.riskified.com
 0.0.0.0 c.riskified.com
@@ -3119,9 +3081,7 @@
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 oas.roanoke.com
-0.0.0.0 roar.com
 0.0.0.0 robocat.me
-0.0.0.0 roia.biz
 0.0.0.0 roletaryk.info
 0.0.0.0 ibza.romsenergy.com
 0.0.0.0 roosterfirework.com
@@ -3167,7 +3127,6 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
-0.0.0.0 scratch2cash.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 scrubsky.com
 0.0.0.0 www.sdad.guru
@@ -3225,7 +3184,6 @@
 0.0.0.0 shoppingads.com
 0.0.0.0 shopsavvy.com
 0.0.0.0 showmeboobs.xyz
-0.0.0.0 siccash.com
 0.0.0.0 api3.siftscience.com
 0.0.0.0 silvermob.com
 0.0.0.0 um.simpli.fi
@@ -3288,8 +3246,6 @@
 0.0.0.0 sonobi.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 sortable.com
-0.0.0.0 spacash.com
-0.0.0.0 adserver.spankaway.com
 0.0.0.0 specialgift.top
 0.0.0.0 specially4u.net
 0.0.0.0 specificpop.com
@@ -3373,7 +3329,6 @@
 0.0.0.0 load.sumome.com
 0.0.0.0 sumome.com
 0.0.0.0 trk.superads.cn
-0.0.0.0 superclix.de
 0.0.0.0 superficialsink.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 tag-mediation.supersonic.com
@@ -3387,13 +3342,6 @@
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 www.supersonicads.com
 0.0.0.0 supersonicads.com
-0.0.0.0 supertop.ru
-0.0.0.0 supertop100.com
-0.0.0.0 supertraff.com
-0.0.0.0 surfmusik-adserver.de
-0.0.0.0 ktu.sv2.biz
-0.0.0.0 swan-swan-goose.com
-0.0.0.0 swelen.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 cdn-api.swirl.com
 0.0.0.0 delivery.h.switchadhub.com
@@ -3720,7 +3668,6 @@
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 error-collector.ted.com
-0.0.0.0 teenrevenue.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teliad.de
 0.0.0.0 cityads.telus.net
@@ -3883,7 +3830,6 @@
 0.0.0.0 unityads.com
 0.0.0.0 pre-usermatch.targeting.unrulymedia.com
 0.0.0.0 unrulymedia.com
-0.0.0.0 untd.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 upalytics.com
@@ -4030,7 +3976,6 @@
 0.0.0.0 s.w-x.co
 0.0.0.0 wzrkt.com
 0.0.0.0 xchange.ro
-0.0.0.0 xclicks.net
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 gv1.xdrig.com
 0.0.0.0 pg.xdrig.com
@@ -4056,7 +4001,6 @@
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ep.xone.com
 0.0.0.0 xq1.net
-0.0.0.0 xrea.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 sdk.ibm.xtify.com
 0.0.0.0 counter.yadro.ru

@@ -1,18 +1,11 @@
 *$data,first-party
 *$data,third-party
-#*$font,first-party
 *$font,third-party
-*$generichide,first-party
-*$generichide,third-party
-#*$image,first-party
-#*$image,third-party
-#*$inline-font,first-party
+*$inline-font,first-party
 *$inline-font,third-party
-#*$inline-script,first-party
 *$inline-script,third-party
 *$main_frame,first-party
 *$main_frame,third-party
-#*$media,first-party
 *$media,third-party
 *$no_type,first-party
 *$no_type,third-party
@@ -25,14 +18,8 @@
 *$other,third-party
 *$popunder,first-party
 *$popunder,third-party
-#*$popup,first-party
-*$popup,third-party
 *$redirect,first-party
 *$redirect,third-party
-#*$script,first-party
-#*$script,third-party
-#*$stylesheet,first-party
-#*$stylesheet,third-party
 *$sub_frame,first-party
 *$sub_frame,third-party
 *$unsupported,first-party
@@ -41,7 +28,6 @@
 *$webrtc,third-party
 *$websocket,first-party
 *$websocket,third-party
-#*$xmlhttprequest,first-party
 *$xmlhttprequest,third-party
 
 @@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com

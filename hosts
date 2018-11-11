@@ -967,17 +967,14 @@
 0.0.0.0 g2.doubleclick.net
 0.0.0.0 g3.doubleclick.net
 0.0.0.0 gan.doubleclick.net
-0.0.0.0 help.doubleclick.net
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
-0.0.0.0 learn.doubleclick.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 reports.doubleclick.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s1.doubleclick.net
 0.0.0.0 static.doubleclick.net
-0.0.0.0 studio.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www2.doubleclick.net
@@ -1201,9 +1198,6 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 adwords.google.com
 0.0.0.0 analytics.google.com
-0.0.0.0 cse.google.com
-0.0.0.0 history.google.com
-0.0.0.0 clients.l.google.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 pagead.l.google.com
@@ -1216,10 +1210,7 @@
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.nl
-0.0.0.0 id.google.nl
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.at
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
@@ -1243,7 +1234,6 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 displayads-formats.googleusercontent.com
-0.0.0.0 redirector.googlevideo.com
 0.0.0.0 geo.gop1.co
 0.0.0.0 img.gop1.co
 0.0.0.0 gop1.co

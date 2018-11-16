@@ -1141,8 +1141,6 @@
 0.0.0.0 m.ssl.fastly.net
 0.0.0.0 dualstack.f2.shared.us-eu.fastly.net
 0.0.0.0 fastmap33.com
-0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 fdplttrk.com
 0.0.0.0 ffcdn3.featureforward.com
 0.0.0.0 i.ffbtas.com
@@ -1549,7 +1547,6 @@
 0.0.0.0 jqtsknmobyw.com
 0.0.0.0 jscminer.com
 0.0.0.0 jscount.com
-
 0.0.0.0 c.jsrdn.com
 0.0.0.0 s.jsrdn.com
 0.0.0.0 juiceadv.com

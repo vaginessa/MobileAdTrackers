@@ -1,6 +1,6 @@
 *$data
 *$font,third-party
-*$inline-font
+*$inline-font,third-party
 *$inline-script,third-party
 *$main_frame
 *$media,third-party
@@ -22,3 +22,4 @@
 @@||*.googlevideo.com^$xmlhttprequest,domain=www.youtube.com
 @@||s.blogsmithmedia.com^$font
 @@||video-*.xx.fbcdn.net^$media,domain=www.facebook.com
+www.reddit.com##.onboardingbar.subscribebar.infobar

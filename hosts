@@ -651,8 +651,6 @@
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yc-ads.s3.amazonaws.com
-0.0.0.0 s3.amazonaws.com
-0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
 0.0.0.0 api.ambelbet.com
 0.0.0.0 click.m.ambientplatform.vn
@@ -1060,7 +1058,6 @@
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 w.x.baidu.com
-0.0.0.0 baidu.com
 0.0.0.0 bannerflow.com
 0.0.0.0 bannersnack.com
 0.0.0.0 log.baomoi.com
@@ -1647,7 +1644,7 @@
 0.0.0.0 um2.eqads.com
 0.0.0.0 green.erne.co
 0.0.0.0 grey.erne.co
-0.0.0.0 ero-advertising.com
+0.0.0.0 ero-advefrtising.com
 0.0.0.0 as00.estara.com
 0.0.0.0 et-code.ru
 0.0.0.0 etargetnet.com
@@ -1676,7 +1673,6 @@
 0.0.0.0 cdn-cf.fabric.io
 0.0.0.0 fastlane-metrics.fabric.io
 0.0.0.0 maven.fabric.io
-0.0.0.0 connect.facebook.net
 0.0.0.0 error.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 api.factual.com
@@ -3359,7 +3355,6 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 onesignal.com
 0.0.0.0 ongkidcasarv.com
-0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 ads.ontarget.mobi
 0.0.0.0 ec.c.ooyala.com
@@ -3633,7 +3628,6 @@
 0.0.0.0 roosterfirework.com
 0.0.0.0 rotaban.ru
 0.0.0.0 app.roximity.com
-0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 static.rqmob.com
 0.0.0.0 rtb-seller.com
@@ -4265,7 +4259,6 @@
 0.0.0.0 registration.tiltingpoint.io
 0.0.0.0 tia.timeinc.net
 0.0.0.0 metrics.timewarnercable.com
-0.0.0.0 etl.tindersparks.com
 0.0.0.0 tinypass.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tizerclik.com
@@ -4394,7 +4387,6 @@
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
-0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
@@ -4464,7 +4456,6 @@
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 videoplaza.com
 0.0.0.0 videoplaza.tv
-0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 vidora.com
 0.0.0.0 vidout.net
 0.0.0.0 app.vietad.vn
@@ -4571,7 +4562,6 @@
 0.0.0.0 www-staging.wootric.com
 0.0.0.0 wootric.com
 0.0.0.0 wordego.com
-0.0.0.0 s0.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 minfo.wps.cn

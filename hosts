@@ -1579,22 +1579,11 @@
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 publisherportal.doubleclick.net
-0.0.0.0 reportcentral.doubleclick.net
-0.0.0.0 reports.doubleclick.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s1.doubleclick.net
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
-0.0.0.0 www.doubleclick.net
-0.0.0.0 www2.doubleclick.net
-0.0.0.0 www3.doubleclick.net
-0.0.0.0 doubleclick.com
-0.0.0.0 doubleclick.de
-0.0.0.0 doubleclick.net
-0.0.0.0 www.doubleclickbygoogle.com
-0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 dpstack.com
@@ -1629,7 +1618,6 @@
 0.0.0.0 e.eclick.vn
 0.0.0.0 emarketing.eclick.vn
 0.0.0.0 g.eclick.vn
-0.0.0.0 admin.iad.eclick.vn
 0.0.0.0 iad.eclick.vn
 0.0.0.0 la.eclick.vn
 0.0.0.0 s.eclick.vn
@@ -2646,7 +2634,6 @@
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 cdn.mobileapptracking.com
 0.0.0.0 deeplink.mobileapptracking.com
-0.0.0.0 developers.mobileapptracking.com
 0.0.0.0 2.engine.mobileapptracking.com
 0.0.0.0 881.engine.mobileapptracking.com
 0.0.0.0 883.engine.mobileapptracking.com
@@ -3179,7 +3166,6 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 analytics.mopub.com
 0.0.0.0 app.mopub.com
-0.0.0.0 developers.mopub.com
 0.0.0.0 media.mopub.com
 0.0.0.0 voxel.read.mongostats.mopub.com
 0.0.0.0 voxel.write.mongostats.mopub.com
@@ -3305,7 +3291,6 @@
 0.0.0.0 nomalleadzuaff.com
 0.0.0.0 ads.nordcurrent.com
 0.0.0.0 cf.nordcurrent.com
-0.0.0.0 admin.novanet.vn
 0.0.0.0 ads.novanet.vn
 0.0.0.0 analytics.novanet.vn
 0.0.0.0 cp.novanet.vn
@@ -3313,7 +3298,6 @@
 0.0.0.0 rnd.novanet.vn
 0.0.0.0 script.novanet.vn
 0.0.0.0 static.novanet.vn
-0.0.0.0 www.novanet.vn
 0.0.0.0 novanet.vn
 0.0.0.0 novostimira.biz
 0.0.0.0 npario-inc.net
@@ -3735,7 +3719,6 @@
 0.0.0.0 shareasale.com
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 data.sharethis.com
-0.0.0.0 developer.sharethis.com
 0.0.0.0 ead.sharethis.com
 0.0.0.0 edge.sharethis.com
 0.0.0.0 emu.sharethis.com
@@ -4190,7 +4173,6 @@
 0.0.0.0 link.swrve.com
 0.0.0.0 qa-log.swrve.com
 0.0.0.0 sink-prod-us-east-1-star.swrve.com
-0.0.0.0 support.swrve.com
 0.0.0.0 m.banner.t-online.de
 0.0.0.0 t3q7af0z.com
 0.0.0.0 www.tabcompany.com
@@ -4529,7 +4511,6 @@
 0.0.0.0 go.vrvm.com
 0.0.0.0 vsassets.com
 0.0.0.0 a.vserv.mobi
-0.0.0.0 admin.vserv.mobi
 0.0.0.0 ads.vserv.mobi
 0.0.0.0 c.vserv.mobi
 0.0.0.0 sf.vserv.mobi
@@ -4546,7 +4527,6 @@
 0.0.0.0 ltv-data-api.kube-prod.vungle.com
 0.0.0.0 monitoring.vungle.com
 0.0.0.0 ssl.vungle.com
-0.0.0.0 support.vungle.com
 0.0.0.0 v.vungle.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 www.vungle.com

@@ -1,7 +1,4 @@
 *$data
-*$font,third-party
-*$inline-font,third-party
-*$inline-script,third-party
 *$main_frame
 *$media,third-party
 *$no_type
@@ -14,7 +11,8 @@
 *$unsupported
 *$webrtc
 *$websocket
-*$xmlhttprequest,third-party
+*$font,third-party
+*$inline-font,third-party
 
 @@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com
 ||www.youtube.com/youtubei/v1/log_event$xmlhttprequest
@@ -22,4 +20,5 @@
 @@||*.googlevideo.com^$xmlhttprequest,domain=www.youtube.com
 @@||s.blogsmithmedia.com^$font
 @@||video-*.xx.fbcdn.net^$media,domain=www.facebook.com
+@@||fonts.googleapis.com^$xmlhttprequest,domain=behind-the-scene
 www.reddit.com##.onboardingbar.subscribebar.infobar

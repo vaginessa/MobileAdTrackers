@@ -1827,11 +1827,6 @@
 0.0.0.0 track.getoffers.top
 0.0.0.0 hades.getsocial.im
 0.0.0.0 ssl.gft2.de
-0.0.0.0 cdn.gigya.com
-0.0.0.0 cdn1.gigya.com
-0.0.0.0 cdn2.gigya.com
-0.0.0.0 cdn3.gigya.com
-0.0.0.0 cdns.us1.gigya.com
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 registration.gimbal.com
@@ -3737,8 +3732,6 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 serverc.shoofle.tv
 0.0.0.0 userstats.shopee.vn
-0.0.0.0 v.shopify.com
-0.0.0.0 cdn.shopifycloud.com
 0.0.0.0 shopsavvy.com
 0.0.0.0 showmeboobs.xyz
 0.0.0.0 api3.siftscience.com
@@ -4329,9 +4322,6 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 widget.twojapogoda.pl
 0.0.0.0 allot.twotwotwoone.com
-0.0.0.0 p.typekit.net
-0.0.0.0 use.typekit.com
-0.0.0.0 use.typekit.net
 0.0.0.0 u-ad.info
 0.0.0.0 u1hw38x0.com
 0.0.0.0 uauniverse.com

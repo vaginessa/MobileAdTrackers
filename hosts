@@ -358,7 +358,6 @@
 0.0.0.0 adnxs.com
 0.0.0.0 sp.auth.adobe.com
 0.0.0.0 pandoramedia.campaign.adobe.com
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 adocean.pl
 0.0.0.0 adonly.com
 0.0.0.0 sync.adotmob.com
@@ -613,8 +612,6 @@
 0.0.0.0 completion.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-sdk.amazon.com
@@ -726,7 +723,6 @@
 0.0.0.0 amobi.vn
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.amplitude.com
-0.0.0.0 3p.ampproject.net
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 assets.amung.us
@@ -1137,9 +1133,6 @@
 0.0.0.0 begun.ru
 0.0.0.0 bepolite.eu
 0.0.0.0 bet365affiliates.com
-0.0.0.0 c.betrad.com
-0.0.0.0 l.betrad.com
-0.0.0.0 betrad.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 sync.bfmio.com
@@ -1327,7 +1320,6 @@
 0.0.0.0 ww1.collserve.com
 0.0.0.0 cdn2.admatic.com.tr
 0.0.0.0 adservice.google.com.tr
-0.0.0.0 id.google.com.tr
 0.0.0.0 m.104.com.tw
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 adspending01.bwnet.com.tw
@@ -1799,7 +1791,6 @@
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 fmpub.net
 0.0.0.0 global.fncstatic.com
-0.0.0.0 fast.fonts.net
 0.0.0.0 football.ua
 0.0.0.0 analytics.foresee.com
 0.0.0.0 brain.foresee.com
@@ -1869,7 +1860,6 @@
 0.0.0.0 igpiphone.gameloft.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
-0.0.0.0 gameloft.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 trk.games-to-run123.com
 0.0.0.0 affiliate.gamestop.com
@@ -1928,8 +1918,6 @@
 0.0.0.0 navigation.api.hk.goforandroid.com
 0.0.0.0 goodadvert.ru
 0.0.0.0 adservice.google.com
-0.0.0.0 adwords.google.com
-0.0.0.0 id.google.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -1954,7 +1942,6 @@
 0.0.0.0 googleadservices.org
 0.0.0.0 googleadservices.ru
 0.0.0.0 googleadservices.uk
-0.0.0.0 chart.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 imasdk.googleapis.com
@@ -1979,10 +1966,6 @@
 0.0.0.0 gowide.com
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 sypi.gpshopper.com
-0.0.0.0 0.gravatar.com
-0.0.0.0 1.gravatar.com
-0.0.0.0 2.gravatar.com
-0.0.0.0 secure.gravatar.com
 0.0.0.0 crosspromo.greenpandagames.com
 0.0.0.0 ads2.greystripe.com
 0.0.0.0 adsx.greystripe.com
@@ -1993,8 +1976,6 @@
 0.0.0.0 grt02.com
 0.0.0.0 grt03.com
 0.0.0.0 gsmtop.net
-0.0.0.0 csi.gstatic.com
-0.0.0.0 guitarbelieve.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumtree.com
@@ -2247,7 +2228,6 @@
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.api.kaffnet.com
-0.0.0.0 cdnapi.kaltura.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 udc-neb.kampyle.com
 0.0.0.0 ssl.kaptcha.com
@@ -2628,7 +2608,6 @@
 0.0.0.0 misslk.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 tracking.intl.miui.com
-0.0.0.0 adv.sec.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 auth.be.sec.miui.com
@@ -3281,7 +3260,6 @@
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 mydas.mobi
 0.0.0.0 analytics.myfinance.com
-0.0.0.0 hello.myfonts.net
 0.0.0.0 myinfotopia.com
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 cks.mynativeplatform.com
@@ -3414,10 +3392,6 @@
 0.0.0.0 api.oneaudience.com
 0.0.0.0 onedrive.su
 0.0.0.0 onelink.me
-0.0.0.0 open.oneplus.net
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 onesignal.com
-0.0.0.0 ongkidcasarv.com
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 ads.ontarget.mobi
 0.0.0.0 ec.c.ooyala.com
@@ -3438,10 +3412,7 @@
 0.0.0.0 opt8.co
 0.0.0.0 get.optad360.io
 0.0.0.0 optimatic.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 logx.optimizely.com
-0.0.0.0 optimizely.com
 0.0.0.0 api.optnmstr.com
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 static.ad.org.vn
@@ -3495,7 +3466,6 @@
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 track.pingstart.com
-0.0.0.0 assets.pinterest.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
@@ -3578,8 +3548,6 @@
 0.0.0.0 puffnetwork.com
 0.0.0.0 puhtml.com
 0.0.0.0 pulse360.com
-0.0.0.0 t.purch.com
-0.0.0.0 purch.com
 0.0.0.0 pushame.com
 0.0.0.0 cdn.pushcrew.com
 0.0.0.0 pushcrew.com
@@ -3939,7 +3907,6 @@
 0.0.0.0 soda.startappservice.com
 0.0.0.0 info.static.startappservice.com
 0.0.0.0 startappservice.com
-0.0.0.0 farm4.staticflickr.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 imgg-cdn.steepto.com
@@ -4307,8 +4274,6 @@
 0.0.0.0 log.thanhnien.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 theoremreach.com
-0.0.0.0 link.theplatform.com
-0.0.0.0 theship.club
 0.0.0.0 thetrafficstat.net
 0.0.0.0 theylike.org
 0.0.0.0 thinknear-hosted.thinknearhub.com
@@ -4366,7 +4331,6 @@
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribpubads.com
 0.0.0.0 tracking.trnox.com
-0.0.0.0 choices.truste.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 appshelf.ttpsdk.info
@@ -4386,9 +4350,6 @@
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 scribe.twitter.com
-0.0.0.0 cdn.syndication.twitter.com
-0.0.0.0 cdn-eb.syndication.twitter.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 widget.twojapogoda.pl
 0.0.0.0 allot.twotwotwoone.com
 0.0.0.0 u-ad.info

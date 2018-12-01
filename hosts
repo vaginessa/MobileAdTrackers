@@ -97,7 +97,6 @@
 0.0.0.0 z.cdn.adbetnet.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 adblade.com
-0.0.0.0 app.adblockhyper.us
 0.0.0.0 access.adblox.net
 0.0.0.0 services.adblox.net
 0.0.0.0 mobiledl.adboe.com
@@ -631,11 +630,9 @@
 0.0.0.0 assoc-msdk-us.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn-a.amazon-adsystem.com
-0.0.0.0 cdn-c.amazon-adsystem.com
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-s.amazon-adsystem.com
 0.0.0.0 cdn-t.amazon-adsystem.com
-0.0.0.0 cdn-z.amazon-adsystem.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 fls-cn.amazon-adsystem.com
@@ -657,7 +654,6 @@
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
-0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -875,8 +871,6 @@
 0.0.0.0 ads.appota.com
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 ad.apps.fm
-0.0.0.0 campaigns.apps-connects.com
-0.0.0.0 c.appsdt.com
 0.0.0.0 appsdt.com
 0.0.0.0 api.appsee.com
 0.0.0.0 appserver-ap.com
@@ -1411,7 +1405,6 @@
 0.0.0.0 da-ads.com
 0.0.0.0 dante2007.com
 0.0.0.0 analytics.ad.daum.net
-0.0.0.0 api.live.daum.net
 0.0.0.0 vads-api.daumkakao.com
 0.0.0.0 srv.dc-1.net
 0.0.0.0 json.dcinside.com
@@ -1444,7 +1437,6 @@
 0.0.0.0 collect11433tctcl.deltadna.net
 0.0.0.0 collect11454wrdcr.deltadna.net
 0.0.0.0 collect11463shdwg.deltadna.net
-0.0.0.0 collect11523nxtcs.deltadna.net
 0.0.0.0 collect11574tblbg.deltadna.net
 0.0.0.0 collect11580chtfc.deltadna.net
 0.0.0.0 collect11886nfntw.deltadna.net
@@ -1485,7 +1477,6 @@
 0.0.0.0 collect13914mtch3.deltadna.net
 0.0.0.0 collect2470ntysd.deltadna.net
 0.0.0.0 collect2525bttls.deltadna.net
-0.0.0.0 collect2567bshds.deltadna.net
 0.0.0.0 collect2585gmsfw.deltadna.net
 0.0.0.0 collect2674dltcr.deltadna.net
 0.0.0.0 collect2758chfch.deltadna.net
@@ -1605,7 +1596,6 @@
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 ad.eg.doubleclick.net
-0.0.0.0 fcs.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dp.g.doubleclick.net
@@ -1803,7 +1793,6 @@
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 regist.fotoable.net
 0.0.0.0 api.foursquare.com
-0.0.0.0 ads.foxnews.com
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fptad.com
@@ -3359,7 +3348,6 @@
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 www.ogury.com
 0.0.0.0 ogury.com
-0.0.0.0 ad.ohmyad.co
 0.0.0.0 www.olx.ua
 0.0.0.0 www.omaze.com
 0.0.0.0 omaze.com
@@ -3886,7 +3874,6 @@
 0.0.0.0 ssphwy.com
 0.0.0.0 sspintrafmsmt.com
 0.0.0.0 sync.srv.stackadapt.com
-0.0.0.0 stampshire.info
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 starffa.com
 0.0.0.0 www.startapp.com
@@ -3917,7 +3904,6 @@
 0.0.0.0 events.streamrail.net
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 vast.streamrail.net
-0.0.0.0 www.strikead.com
 0.0.0.0 app.subiz.com
 0.0.0.0 css-dashboard.subiz.com
 0.0.0.0 em.subiz.com
@@ -3929,8 +3915,6 @@
 0.0.0.0 subiz.com
 0.0.0.0 tracking.sumatoad.com
 0.0.0.0 sumatoad.com
-0.0.0.0 www.summerhamster.com
-0.0.0.0 summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 load.sumome.com
 0.0.0.0 sumome.com
@@ -4275,7 +4259,6 @@
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 theoremreach.com
 0.0.0.0 thetrafficstat.net
-0.0.0.0 theylike.org
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 thoughtleadr.com
 0.0.0.0 thoughtsondance.info

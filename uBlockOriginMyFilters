@@ -1,10 +1,6 @@
 *$data
-#*$font,first-party
 *$font,third-party
-*$generichide
-#*$image
 *$inline-font
-#*$inline-script,first-party
 *$inline-script,third-party
 *$main_frame
 *$media
@@ -13,10 +9,7 @@
 *$object_subrequest
 *$other
 *$popunder
-#*$popup
 *$redirect
-#*$script
-#*$stylesheet
 *$sub_frame
 *$unsupported
 *$webrtc

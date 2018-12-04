@@ -589,6 +589,7 @@
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 admarvel.s3.amazonaws.com
@@ -734,6 +735,7 @@
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
+0.0.0.0 sfoprod-rtbwin.applovin.com
 0.0.0.0 stage-a.applovin.com
 0.0.0.0 stage-assets.applovin.com
 0.0.0.0 stage-img.applovin.com

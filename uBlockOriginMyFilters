@@ -1,4 +1,3 @@
-*$data
 *$font,third-party
 *$inline-font
 *$inline-script,third-party
@@ -6,28 +5,29 @@
 *$media
 *$no_type
 *$object
-*$object_subrequest
 *$other
-*$popunder
 *$redirect
-*$sub_frame
 *$unsupported
 *$webrtc
 *$websocket
 *$xmlhttprequest,third-party
 
-@@||*.ampproject.net^$subdocument
-www.bing.com##.b_adBottom.b_ad
-www.bing.com##li.b_ad:nth-of-type(1)
-@@||s.blogsmithmedia.com^$font
-@@||players.brightcove.net^$inline-font,domain=players.brightcove.net
-@@||video-*.xx.fbcdn.net^$media,domain=www.facebook.com
-@@||www.gstatic.com^$xmlhttprequest,domain=play.google.com
 @@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com
-www.reddit.com##.content > div.spacer:nth-of-type(1)
-www.reddit.com##.content > div.spacer:nth-of-type(2)
-www.reddit.com##div.spacer:nth-of-type(5)
-www.reddit.com##.side > div.spacer:nth-of-type(2)
-@@||www.reddit.com^$inline-font
-www.reddit.com##.onboardingbar.subscribebar.infobar
 ||www.youtube.com/youtubei/v1/log_event$xmlhttprequest
+@@||www.gstatic.com^$xmlhttprequest,domain=play.google.com
+@@||*.googlevideo.com^$xmlhttprequest,domain=www.youtube.com
+@@||s.blogsmithmedia.com^$font
+@@||video-*.xx.fbcdn.net^$media,domain=www.facebook.com
+@@||fonts.googleapis.com^$xmlhttprequest,domain=behind-the-scene
+@@||*.ampproject.net^$subdocument
+@@||players.brightcove.net^$inline-font,domain=players.brightcove.net
+www.reddit.com##.onboardingbar.subscribebar.infobar
+www.reddit.com##.content > div.spacer:nth-of-type(1)
+www.reddit.com##.side > div.spacer:nth-of-type(2)
+www.reddit.com##div.spacer:nth-of-type(5)
+@@||www.reddit.com^$inline-font
+www.bing.com##li.b_ad:nth-of-type(1)
+www.bing.com##.b_adBottom.b_ad
+globalnews.ca##.align-middle.story-ad
+@@||video-*.xx.fbcdn.net^$xmlhttprequest,domain=www.facebook.com
+@@||scontent-*.xx.fbcdn.net^$xmlhttprequest,domain=www.facebook.com

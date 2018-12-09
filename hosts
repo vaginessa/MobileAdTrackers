@@ -61,6 +61,7 @@
 0.0.0.0 seg.ad.gt
 0.0.0.0 as.ad-brix.com
 0.0.0.0 campaign.ad-brix.com
+0.0.0.0 config.ad-brix.com
 0.0.0.0 cvr.ad-brix.com
 0.0.0.0 tracking.ad-brix.com
 0.0.0.0 ad-brix.com
@@ -494,6 +495,7 @@
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 alexajstrack.com
+0.0.0.0 certify.alexametrics.com
 0.0.0.0 a.algovid.com
 0.0.0.0 c.algovid.com
 0.0.0.0 p.algovid.com
@@ -1373,6 +1375,7 @@
 0.0.0.0 engage12666pkrwr.deltadna.net
 0.0.0.0 engage12981wrdfl.deltadna.net
 0.0.0.0 engage13245rnrnd.deltadna.net
+0.0.0.0 engage13566brrtb.deltadna.net
 0.0.0.0 engage13764wrdst.deltadna.net
 0.0.0.0 engage13869vptrt.deltadna.net
 0.0.0.0 engage13914mtch3.deltadna.net
@@ -1410,6 +1413,7 @@
 0.0.0.0 dfs.digitalaccess.ru
 0.0.0.0 digitalmerkat.com
 0.0.0.0 pixel.digitru.st
+0.0.0.0 cdn.dimml.io
 0.0.0.0 cdn1.diningrewardsclub.net
 0.0.0.0 scr.diningrewardsclub.net
 0.0.0.0 diningrewardsclub.net
@@ -1670,6 +1674,7 @@
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 slb.gedawang.com
+0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 googlecm.hit.gemius.pl
 0.0.0.0 geoplugin.net
 0.0.0.0 tag.getdrip.com
@@ -2958,6 +2963,7 @@
 0.0.0.0 client.vads.net.vn
 0.0.0.0 vads.net.vn
 0.0.0.0 interstitial-ads-prod-fusepowered.netdna-ssl.com
+0.0.0.0 sdkapi.netmera.com
 0.0.0.0 com-dsg.netmng.com
 0.0.0.0 nan.netmng.com
 0.0.0.0 cmi.netseer.com

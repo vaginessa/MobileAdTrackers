@@ -454,6 +454,7 @@
 0.0.0.0 api.ae888.com
 0.0.0.0 ae888.com
 0.0.0.0 ads.aerserv.com
+0.0.0.0 debug.aerserv.com
 0.0.0.0 afftrack-data.com
 0.0.0.0 c.t.afftrackr.com
 0.0.0.0 t.afftrackr.com
@@ -1709,6 +1710,8 @@
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.nl
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
 0.0.0.0 googleadservices.at
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 pagead2.googleadservices.com
@@ -2187,6 +2190,9 @@
 0.0.0.0 media-match.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 mediabridge.cc
+0.0.0.0 cdn.mediabrix.com
+0.0.0.0 mediate.mediabrix.com
+0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mediaiqdigital.com
 0.0.0.0 a.medialytics.com
 0.0.0.0 c.medialytics.com
@@ -3164,6 +3170,7 @@
 0.0.0.0 us01.rayjump.com
 0.0.0.0 rayjump.com
 0.0.0.0 realclever.com
+0.0.0.0 adsrvr.receptiv.com
 0.0.0.0 redirect2719.ws
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redtram.com
@@ -3725,6 +3732,7 @@
 0.0.0.0 api.tapstream.com
 0.0.0.0 clk.taptica.com
 0.0.0.0 api.taskapi.net
+0.0.0.0 metrics.tbliab.net
 0.0.0.0 track.tcppu.com
 0.0.0.0 analytics.tdameritrade.com
 0.0.0.0 tdxio.com
@@ -3851,6 +3859,7 @@
 0.0.0.0 adserving.unibet.com
 0.0.0.0 onceux.unicornmedia.com
 0.0.0.0 unicume.com
+0.0.0.0 perfect.dc.unify.id
 0.0.0.0 unilead.com
 0.0.0.0 unileadnetwork.com
 0.0.0.0 sa.unionstatistics.com
@@ -3958,6 +3967,7 @@
 0.0.0.0 c.vrvm.com
 0.0.0.0 cls.vrvm.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 sdkconfig.vrvm.com
 0.0.0.0 vsassets.com
 0.0.0.0 a.vserv.mobi
 0.0.0.0 ads.vserv.mobi

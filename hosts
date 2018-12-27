@@ -66,8 +66,6 @@
 0.0.0.0 tracking.ad-brix.com
 0.0.0.0 ad-brix.com
 0.0.0.0 api.ad-locus.com
-0.0.0.0 data.ad-score.com
-0.0.0.0 js.ad-score.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 provider.ad360.vn
 0.0.0.0 tracking.ad360.vn
@@ -401,7 +399,6 @@
 0.0.0.0 ums.adtechus.com
 0.0.0.0 adtheorent.com
 0.0.0.0 ads.adthrive.com
-0.0.0.0 adtiger.de
 0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 rm4.adtilt.com
 0.0.0.0 adtilt.com
@@ -457,8 +454,6 @@
 0.0.0.0 ads.aerserv.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 afftrack-data.com
-0.0.0.0 c.t.afftrackr.com
-0.0.0.0 t.afftrackr.com
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 agentanalytics.com
@@ -1005,8 +1000,6 @@
 0.0.0.0 sync.bfmio.com
 0.0.0.0 bgrndi.com
 0.0.0.0 bidsopt.com
-0.0.0.0 x.bidswitch.net
-0.0.0.0 bidswitch.net
 0.0.0.0 west.bidtellect.com
 0.0.0.0 bidtrk.com
 0.0.0.0 gdn.bigfishgames.com
@@ -1119,7 +1112,6 @@
 0.0.0.0 native.cli.bz
 0.0.0.0 clickkydsp.com
 0.0.0.0 clix.vn
-0.0.0.0 clkfeed.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
@@ -1500,8 +1492,6 @@
 0.0.0.0 ensighten.com
 0.0.0.0 epom.com
 0.0.0.0 um2.eqads.com
-0.0.0.0 green.erne.co
-0.0.0.0 grey.erne.co
 0.0.0.0 as00.estara.com
 0.0.0.0 banners.etermax.com
 0.0.0.0 adv.ettoday.net
@@ -1591,8 +1581,6 @@
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fptad.com
-0.0.0.0 s.fqtag.com
-0.0.0.0 fqtag.com
 0.0.0.0 adsdk.fractionalmedia.com
 0.0.0.0 adsdkconfig.fractionalmedia.com
 0.0.0.0 adzone.fractionalmedia.com
@@ -1934,7 +1922,6 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 ketchapp.org
 0.0.0.0 keydot.net
-0.0.0.0 pixel.keywee.co
 0.0.0.0 look.kfiopkln.com
 0.0.0.0 kii.com
 0.0.0.0 kiip.com
@@ -2190,8 +2177,6 @@
 0.0.0.0 medialytics.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 mediatrking.com
-0.0.0.0 plugin.mediavoice.com
-0.0.0.0 mediavoice.com
 0.0.0.0 metamx.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
@@ -2876,7 +2861,6 @@
 0.0.0.0 nativex.com
 0.0.0.0 adimg3.search.naver.net
 0.0.0.0 tveta.naver.net
-0.0.0.0 tracker.nbcuas.com
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 nearbyad.com
@@ -2969,7 +2953,6 @@
 0.0.0.0 mboxedge20.tt.omtrdc.net
 0.0.0.0 mboxedge28.tt.omtrdc.net
 0.0.0.0 pixel.onaudience.com
-0.0.0.0 go.onclasrv.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 onedrive.su
 0.0.0.0 onelink.me

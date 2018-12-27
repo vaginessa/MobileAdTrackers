@@ -66,7 +66,6 @@
 0.0.0.0 tracking.ad-brix.com
 0.0.0.0 ad-brix.com
 0.0.0.0 api.ad-locus.com
-0.0.0.0 ad-miner.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 ads.ad2iction.com
@@ -1163,8 +1162,6 @@
 0.0.0.0 cp.qc.coccoc.com
 0.0.0.0 qc.coccoc.com
 0.0.0.0 beacon.lynx.cognitivlabs.com
-0.0.0.0 coin-hive.com
-0.0.0.0 coinhive.com
 0.0.0.0 ww1.collserve.com
 0.0.0.0 cdn2.admatic.com.tr
 0.0.0.0 adservice.google.com.tr
@@ -1780,9 +1777,6 @@
 0.0.0.0 gooal.herokuapp.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 inspectletws.herokuapp.com
-0.0.0.0 jqcdn01.herokuapp.com
-0.0.0.0 jqcdn03.herokuapp.com
-0.0.0.0 jqcdn2.herokuapp.com
 0.0.0.0 on-js.herokuapp.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 p13n-int.herokuapp.com
@@ -1791,13 +1785,10 @@
 0.0.0.0 stack-exchange-dynamic-ads.herokuapp.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 sworkitads.herokuapp.com
-0.0.0.0 sxcdn1.herokuapp.com
-0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 thrillingos.herokuapp.com
 0.0.0.0 user-agent-tracker.herokuapp.com
 0.0.0.0 visitor-language.herokuapp.com
 0.0.0.0 wootric-eligibility.herokuapp.com
-0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 herokuapp.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 hexagon-analytics.com
@@ -2022,7 +2013,6 @@
 0.0.0.0 ad.lionmobi.com
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 powerclear.lionmobi.com
-0.0.0.0 listat.biz
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 ad.lkqd.net
@@ -2062,7 +2052,6 @@
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 a.tiles.mapbox.com
-0.0.0.0 jsc.marketgid.com
 0.0.0.0 markmonitor.com
 0.0.0.0 api.maropost.com
 0.0.0.0 api.app.masoffer.net

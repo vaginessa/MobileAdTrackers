@@ -51,10 +51,8 @@
 0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 click.accesstrade.vn
 0.0.0.0 cv.accesstrade.vn
-0.0.0.0 duatop.accesstrade.vn
 0.0.0.0 imp.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
-0.0.0.0 tracking.acekoala.com
 0.0.0.0 aclickoooo.host
 0.0.0.0 a.ad.gt
 0.0.0.0 p.ad.gt
@@ -500,7 +498,6 @@
 0.0.0.0 cdn1-10935748.algovid.tv
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
-0.0.0.0 fineboostres.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 tr.alphonso.tv
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 alxanosoft.com
@@ -879,7 +876,6 @@
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 als.baidu.com
-0.0.0.0 anquan.baidu.com
 0.0.0.0 antivirus.baidu.com
 0.0.0.0 b.baidu.com
 0.0.0.0 cm.baichuan.baidu.com
@@ -894,10 +890,8 @@
 0.0.0.0 dlsw.br.baidu.com
 0.0.0.0 j.br.baidu.com
 0.0.0.0 btlaunch.baidu.com
-0.0.0.0 bzclk.baidu.com
 0.0.0.0 cb.baidu.com
 0.0.0.0 cbjs.baidu.com
-0.0.0.0 dl.client.baidu.com
 0.0.0.0 cm.baidu.com
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 cpro.baidu.com
@@ -1033,7 +1027,6 @@
 0.0.0.0 poster.bong99.com
 0.0.0.0 xemtylecacuoc.bong99.com
 0.0.0.0 bong99.com
-0.0.0.0 coconuts.boy.jp
 0.0.0.0 cdn-ugc.brainient.com
 0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
@@ -1041,7 +1034,6 @@
 0.0.0.0 alya.iad-03.braze.com
 0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 tali.iad-03.braze.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 brokerbabe.com
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 sync.btn2go.com
@@ -1114,10 +1106,6 @@
 0.0.0.0 clix.vn
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ase.clmbtech.com
-0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
-0.0.0.0 d3oltyb66oj2v8.cloudfront.net
-0.0.0.0 debojuagug1sf.cloudfront.net
-0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 us-central1-eyewind-ads.cloudfunctions.net
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 logger.cloudmobi.net
@@ -1160,7 +1148,6 @@
 0.0.0.0 m.104.com.tw
 0.0.0.0 adspending01.bwnet.com.tw
 0.0.0.0 agent.tamedia.com.tw
-0.0.0.0 holder.com.ua
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 thongke.24h.com.vn
@@ -1322,7 +1309,6 @@
 0.0.0.0 collect8547frtsp.deltadna.net
 0.0.0.0 collect8607jtpck.deltadna.net
 0.0.0.0 collect8637gmcrf.deltadna.net
-0.0.0.0 collect9381mtrxd.deltadna.net
 0.0.0.0 collect9618nrcsm.deltadna.net
 0.0.0.0 collect9822snprs.deltadna.net
 0.0.0.0 collect9903crssb.deltadna.net
@@ -1415,7 +1401,6 @@
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 ad.eg.doubleclick.net
-0.0.0.0 8228676.fls.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dp.g.doubleclick.net
@@ -1423,7 +1408,6 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 g0.doubleclick.net
@@ -1590,7 +1574,6 @@
 0.0.0.0 node416.fractionalmedia.com
 0.0.0.0 node420.fractionalmedia.com
 0.0.0.0 free-banners.com
-0.0.0.0 free-gift.xyz
 0.0.0.0 freegeoip.net
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 meiwa-kumquat.fruithosted.net
@@ -1983,13 +1966,6 @@
 0.0.0.0 analytics.liftoff.io
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 cdn.liftoff.io
-0.0.0.0 haggler-mopub783-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub787-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub808-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub813-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub814-us-e-ec2.liftoff.io
-0.0.0.0 haggler-mopub823-us-e-ec2.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 liftoff.io
@@ -2225,7 +2201,6 @@
 0.0.0.0 millenialmedia.com
 0.0.0.0 images.millennialmedia.com
 0.0.0.0 minimob.com
-0.0.0.0 r.browser.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -3008,8 +2983,6 @@
 0.0.0.0 rtb.persona.ly
 0.0.0.0 sdk.persona.ly
 0.0.0.0 persona.ly
-0.0.0.0 orencia.pflexads.com
-0.0.0.0 pflexads.com
 0.0.0.0 s3.phluant.com
 0.0.0.0 phluant.com
 0.0.0.0 mdn1.phluantmobile.net
@@ -3022,7 +2995,6 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 api.pingstart.com
-0.0.0.0 track.pingstart.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
@@ -3082,7 +3054,6 @@
 0.0.0.0 s.pubmine.com
 0.0.0.0 pubnative.net
 0.0.0.0 tracking.pubpanda.com
-0.0.0.0 cdn.puffnetwork.com
 0.0.0.0 puffnetwork.com
 0.0.0.0 cdn.pushcrew.com
 0.0.0.0 pushcrew.com
@@ -3101,7 +3072,6 @@
 0.0.0.0 stat.pushwoosh.com
 0.0.0.0 status.pushwoosh.com
 0.0.0.0 pushwoosh.com
-0.0.0.0 sube.puwangkj.com
 0.0.0.0 dicks-sporting-goods.pxf.io
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 qgss8.com
@@ -3390,7 +3360,6 @@
 0.0.0.0 survey.survicate.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 cdn-api.swirl.com
-0.0.0.0 delivery.h.switchadhub.com
 0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 abt-prod-us-east-1-content-star.swrve.com
 0.0.0.0 abtest.swrve.com
@@ -3803,7 +3772,6 @@
 0.0.0.0 unileadnetwork.com
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 tag.unionstatistics.com
-0.0.0.0 analytics.social.unity.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -3885,8 +3853,6 @@
 0.0.0.0 tracking.viewster.com
 0.0.0.0 api.vigo.ru
 0.0.0.0 static.vilynx.com
-0.0.0.0 cms.vinaads.vn
-0.0.0.0 vinaads.vn
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 dc.services.visualstudio.com
@@ -4088,7 +4054,6 @@
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 api-logsink-prod.zedge.io
 0.0.0.0 b1-apac1.zemanta.com
-0.0.0.0 b1-use1.zemanta.com
 0.0.0.0 images2.zemanta.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -4097,10 +4062,6 @@
 0.0.0.0 bms.zeptolab.com
 0.0.0.0 crosspromo.zeptolab.com
 0.0.0.0 m.baidu.com.zhiduo.org
-0.0.0.0 ad.zing.vn
-0.0.0.0 tracking.playzing.g6.zing.vn
-0.0.0.0 kvtm2.static.g6.zing.vn
-0.0.0.0 log.news.zing.vn
 0.0.0.0 track.zorkanetwork.com
 0.0.0.0 zumobi.com
 0.0.0.0 zzhengre.com

@@ -1,15 +1,11 @@
 *$data
-*$font,third-party
-*$inline-font
+*$inline-font,third-party
 *$inline-script,third-party
-*$main_frame
-*$media
 *$no_type
 *$object
 *$object_subrequest
 *$other
 *$redirect
-*$sub_frame
 *$unsupported
 *$webrtc
 *$websocket

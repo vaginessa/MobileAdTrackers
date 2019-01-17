@@ -870,7 +870,6 @@
 0.0.0.0 click.aztracking.net
 0.0.0.0 gwmserver.b-cdn.net
 0.0.0.0 vidoplay.b-cdn.net
-0.0.0.0 cpro.baidu.cn
 0.0.0.0 a.baidu.com
 0.0.0.0 adm.baidu.com
 0.0.0.0 adscdn.baidu.com
@@ -1264,7 +1263,6 @@
 0.0.0.0 collect12423ptsrc.deltadna.net
 0.0.0.0 collect12630prprs.deltadna.net
 0.0.0.0 collect12639bbbld.deltadna.net
-0.0.0.0 collect12654frmsl.deltadna.net
 0.0.0.0 collect12666pkrwr.deltadna.net
 0.0.0.0 collect126842fr2h.deltadna.net
 0.0.0.0 collect12717rnssg.deltadna.net
@@ -1651,7 +1649,6 @@
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 arcomobi.go2affise.com
 0.0.0.0 coopermedia.go2affise.com
-0.0.0.0 pronivydigital.go2affise.com
 0.0.0.0 upahco.go2affise.com
 0.0.0.0 tapjoy.go2cloud.org
 0.0.0.0 kissmyads.go2jump.org
@@ -1707,16 +1704,6 @@
 0.0.0.0 gowide.com
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 sypi.gpshopper.com
-0.0.0.0 ssl.gpsonextra.net
-0.0.0.0 time.gpsonextra.net
-0.0.0.0 xp1.gpsonextra.net
-0.0.0.0 xp2.gpsonextra.net
-0.0.0.0 xp3.gpsonextra.net
-0.0.0.0 xtra.gpsonextra.net
-0.0.0.0 xtra1.gpsonextra.net
-0.0.0.0 xtra2.gpsonextra.net
-0.0.0.0 xtra3.gpsonextra.net
-0.0.0.0 xtra4.gpsonextra.net
 0.0.0.0 crosspromo.greenpandagames.com
 0.0.0.0 ads2.greystripe.com
 0.0.0.0 adsx.greystripe.com
@@ -1780,8 +1767,6 @@
 0.0.0.0 heyzap.com
 0.0.0.0 api.hh.ru
 0.0.0.0 p.hiimps.com
-0.0.0.0 s-35.hiimps.com
-0.0.0.0 s-46.hiimps.com
 0.0.0.0 s-74.hiimps.com
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 adv-ettoday.cdn.hinet.net
@@ -1880,24 +1865,6 @@
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 sl.ivankatraff.com
 0.0.0.0 opn.ivitrack.com
-0.0.0.0 cds.gtp.izatcloud.net
-0.0.0.0 gtp1.gtp.izatcloud.net
-0.0.0.0 gtp1.izatcloud.net
-0.0.0.0 gtp2.izatcloud.net
-0.0.0.0 gtpa1.izatcloud.net
-0.0.0.0 gtpc1.izatcloud.net
-0.0.0.0 gtpcn.izatcloud.net
-0.0.0.0 gtpcn1.izatcloud.net
-0.0.0.0 info.izatcloud.net
-0.0.0.0 s2s.izatcloud.net
-0.0.0.0 time.izatcloud.net
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath11.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
-0.0.0.0 xtrapath5.izatcloud.net
-0.0.0.0 xtrapath7.izatcloud.net
-0.0.0.0 xtrapath9.izatcloud.net
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 jampp.com
 0.0.0.0 image.jeuxvideo.com
@@ -2834,7 +2801,6 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 mxttrf.com
 0.0.0.0 tracker-api.my.com
-0.0.0.0 myad.vn
 0.0.0.0 c3.myapkcdn.in
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 mybuys.com
@@ -3050,7 +3016,6 @@
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 c.predictvideo.com
 0.0.0.0 p.predictvideo.com
-0.0.0.0 s-41.predictvideo.com
 0.0.0.0 bip.presage.io
 0.0.0.0 l-v1.presage.io
 0.0.0.0 mraid.presage.io
@@ -3386,7 +3351,6 @@
 0.0.0.0 survey.survicate.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 cdn-api.swirl.com
-0.0.0.0 delivery.swid.switchadhub.com
 0.0.0.0 abt-prod-us-east-1-content-star.swrve.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 638.api.swrve.com
@@ -3850,8 +3814,6 @@
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admicro6.vcmedia.vn
 0.0.0.0 cdn.vdopia.com
-0.0.0.0 mwc.velti.com
-0.0.0.0 ru.velti.com
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 s.vertamedia.com
 0.0.0.0 pulsepoint-cm.p.veruta.com

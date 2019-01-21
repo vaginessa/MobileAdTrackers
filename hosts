@@ -123,7 +123,9 @@
 0.0.0.0 intouch.adinfuse.com
 0.0.0.0 orange-fr.adinfuse.com
 0.0.0.0 orangeuk-mc.adinfuse.com
+0.0.0.0 sky.adinfuse.com
 0.0.0.0 sky-connect.adinfuse.com
+0.0.0.0 uk-ad2.adinfuse.com
 0.0.0.0 uk-go.adinfuse.com
 0.0.0.0 adinfuse.com
 0.0.0.0 imagesrv.adition.com
@@ -1031,7 +1033,6 @@
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 beacon.carfax.com
 0.0.0.0 devices.carnivalmobile.com
-0.0.0.0 casalmedia.com
 0.0.0.0 cashprom.ru
 0.0.0.0 cb-cdn.com
 0.0.0.0 cdn-image.com
@@ -3820,7 +3821,9 @@
 0.0.0.0 ad.vkool.net
 0.0.0.0 sb.voicefive.com
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 api-gdpr.voodoo-tech.io
+0.0.0.0 log.vov.vn
 0.0.0.0 m.vpadn.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 adplatform.vrtcal.com

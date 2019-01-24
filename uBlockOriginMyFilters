@@ -1,4 +1,5 @@
 *$data
+*$inline-font,third-party
 *$inline-script,third-party
 *$font,third-party
 *$no_type
@@ -10,3 +11,4 @@
 *$unsupported
 *$webrtc
 *$websocket
+*$xmlhttprequest,third-party
